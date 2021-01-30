@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    background-color: #515BEF;
+    color: white;
+
+
+}
+
+body {
+    background-image: url('bg.jpg');
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div {
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+    margin-top: 20px;
+}
